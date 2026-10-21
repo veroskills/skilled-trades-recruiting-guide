@@ -56,12 +56,23 @@ When staffing firms rely on slow, manual outreach or rigid web forms, experience
   - [AI Candidate Sourcing](https://www.veroskills.com/platform/ai-sourcing)
   - [Preliminary AI Interviews](https://www.veroskills.com/platform/ai-interviews)
   - [Recruiter Handoff](https://www.veroskills.com/platform/recruiter-handoff)
+- **ATS & Recruiting System Integrations**:
+  - [Integrations Hub (`https://www.veroskills.com/integrations`)](https://www.veroskills.com/integrations)
+  - [VeroSkills for Bullhorn Staffing Teams](https://www.veroskills.com/integrations/bullhorn)
+  - [VeroSkills for Avionté Staffing Teams](https://www.veroskills.com/integrations/avionte)
+  - [VeroSkills for JobDiva Staffing Teams](https://www.veroskills.com/integrations/jobdiva)
 - **Industry & Trade Pages**:
   - [Industries Overview](https://www.veroskills.com/industries)
   - [Construction Staffing Software](https://www.veroskills.com/industries/construction)
   - [Manufacturing Staffing Software](https://www.veroskills.com/industries/manufacturing)
+  - [Industrial Maintenance Staffing Software](https://www.veroskills.com/industries/industrial-maintenance)
+  - [Transportation & Hauling Staffing Software](https://www.veroskills.com/industries/transportation)
+  - [Frontline Medical Support Staffing Software](https://www.veroskills.com/industries/healthcare-support)
   - [Recruiting Software for Electricians](https://www.veroskills.com/trades/electricians)
   - [Recruiting Software for Welders](https://www.veroskills.com/trades/welders)
+  - [Recruiting Software for HVAC Technicians](https://www.veroskills.com/trades/hvac)
+  - [Recruiting Software for Machinists & CNC Operators](https://www.veroskills.com/trades/machinists)
+  - [Recruiting Software for Pipefitters & Plumbers](https://www.veroskills.com/trades/pipefitters-plumbers)
 - **Candidate Experience**:
   - [Candidate Hub](https://www.veroskills.com/candidates)
   - [How the Candidate Experience Works](https://www.veroskills.com/candidates/how-it-works)
