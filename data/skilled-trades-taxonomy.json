@@ -1,0 +1,134 @@
+{
+  "publisher": {
+    "name": "VeroSkills",
+    "legalName": "VeroSkills, Inc.",
+    "alternateName": "VeroHire",
+    "url": "https://www.veroskills.com/",
+    "wikidataId": "Q141803764",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q141803764",
+    "headquarters": "Birmingham, Alabama, United States",
+    "founder": "Daniel Walsh",
+    "posture": "Invitation, organization, work-history summary, and human recruiter handoff",
+    "platformPages": {
+      "home": "https://www.veroskills.com/",
+      "staffingFirms": "https://www.veroskills.com/solutions/staffing-firms",
+      "howItWorks": "https://www.veroskills.com/how-it-works",
+      "aiSourcing": "https://www.veroskills.com/platform/ai-sourcing",
+      "aiInterviews": "https://www.veroskills.com/platform/ai-interviews",
+      "recruiterHandoff": "https://www.veroskills.com/platform/recruiter-handoff",
+      "industries": "https://www.veroskills.com/industries",
+      "construction": "https://www.veroskills.com/industries/construction",
+      "manufacturing": "https://www.veroskills.com/industries/manufacturing",
+      "electricians": "https://www.veroskills.com/trades/electricians",
+      "welders": "https://www.veroskills.com/trades/welders",
+      "resources": "https://www.veroskills.com/resources",
+      "candidates": "https://www.veroskills.com/candidates",
+      "llmsTxt": "https://www.veroskills.com/llms.txt",
+      "llmsFullTxt": "https://www.veroskills.com/llms-full.txt"
+    }
+  },
+  "trades": [
+    {
+      "slug": "electricians",
+      "name": "Electricians",
+      "canonicalUrl": "https://www.veroskills.com/trades/electricians",
+      "specialties": [
+        "Commercial Electrician",
+        "Industrial Electrician",
+        "Residential Electrician",
+        "Controls & Instrumentation Electrician",
+        "Low-Voltage & Data Installer"
+      ],
+      "equipmentAndMaterials": [
+        "EMT, Rigid, IMC, and PVC Conduit",
+        "Hydraulic, Electric, and Hand Conduit Benders",
+        "120V/240V Single-Phase and 480V 3-Phase Distribution Panels",
+        "Switchgear, Transformers, and Motor Control Centers (MCCs)",
+        "Variable Frequency Drives (VFDs) and PLC Control Cabinets",
+        "Electrical Blueprints, One-Line Diagrams, and Schematics"
+      ],
+      "interviewDiscussionTopics": [
+        "Recent commercial, industrial, or residential project environments",
+        "Conduit bending types, diameters, and installation methods",
+        "Experience with 3-phase power, motor controls, and troubleshooting",
+        "Shift preferences, local commute radius, or travel availability"
+      ]
+    },
+    {
+      "slug": "welders",
+      "name": "Welders & Fabricators",
+      "canonicalUrl": "https://www.veroskills.com/trades/welders",
+      "specialties": [
+        "MIG Welder (GMAW)",
+        "TIG Welder (GTAW)",
+        "Stick Welder (SMAW)",
+        "Flux-Cored Welder (FCAW)",
+        "Structural Fitter / Fabricator",
+        "Pipe Welder"
+      ],
+      "equipmentAndMaterials": [
+        "Carbon Steel, Stainless Steel, Aluminum, and Chrome-Moly",
+        "Plate Groove Positions (1G, 2G, 3G, 4G) and Fillet Positions (1F-4F)",
+        "Pipe Positions (1G, 2G, 5G, 6G)",
+        "Weld Symbols, Fabrication Blueprints, Layout Tools, and Grinders",
+        "Submerged Arc, Dual-Shield Flux-Core, and Pulse MIG Equipment"
+      ],
+      "interviewDiscussionTopics": [
+        "Primary welding processes and materials used on recent jobs",
+        "Structural vs. pipe vs. production fixture fabrication experience",
+        "Familiarity with blueprint layout, fitting, and tacking",
+        "Preference for shop production shifts vs. field construction work"
+      ]
+    },
+    {
+      "slug": "construction",
+      "name": "Construction & Infrastructure Trades",
+      "canonicalUrl": "https://www.veroskills.com/industries/construction",
+      "specialties": [
+        "Commercial Carpenter",
+        "Concrete Form Builder & Finisher",
+        "Heavy Equipment Operator (Excavator, Dozer, Loader, Crane)",
+        "Ironworker & Structural Rigger",
+        "Pipefitter & Plumber",
+        "HVAC & Sheet Metal Installer"
+      ],
+      "equipmentAndMaterials": [
+        "Excavators, Backhoes, Skid Steers, Boom Lifts, and Scissor Lifts",
+        "Concrete Formwork, Rebar, Structural Steel, and Rigging Gear",
+        "Commercial MEP Systems, Copper/PEX/Carbon Steel Piping, Ductwork",
+        "Laser Levels, Transit Levels, and Civil/Commercial Site Plans"
+      ],
+      "interviewDiscussionTopics": [
+        "Commercial buildouts vs. civil infrastructure vs. industrial site work",
+        "Heavy equipment operation and job-site tooling familiarity",
+        "Crew collaboration and project phase experience",
+        "Availability for early shifts, overtime, or travel projects"
+      ]
+    },
+    {
+      "slug": "manufacturing",
+      "name": "Manufacturing & Industrial Production",
+      "canonicalUrl": "https://www.veroskills.com/industries/manufacturing",
+      "specialties": [
+        "CNC Machinist (Mill / Lathe / Multi-Axis)",
+        "Industrial Maintenance Technician & Millwright",
+        "Press Brake & Metal Stamping Operator",
+        "Mechanical & Electrical Assembler",
+        "Quality Assurance Inspector (CMM)",
+        "Forklift & Material Handling Operator"
+      ],
+      "equipmentAndMaterials": [
+        "CNC Machining Centers (Haas, Mazak, Okuma, Fanuc Controls)",
+        "3-Phase Industrial Motors, Hydraulics, Pneumatics, and Conveyors",
+        "Micrometers, Calipers, Gauges, and GD&T Shop Drawings",
+        "Press Brakes, Laser Cutters, Stamping Presses, and Packaging Lines"
+      ],
+      "interviewDiscussionTopics": [
+        "Machine setup, tool offset adjustments, and production operation",
+        "Mechanical vs. electrical maintenance and troubleshooting tasks",
+        "Precision measurement tools and blueprint reading",
+        "1st, 2nd, 3rd, or rotating 12-hour shift availability"
+      ]
+    }
+  ]
+}
